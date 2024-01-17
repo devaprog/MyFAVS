@@ -1,0 +1,7 @@
+linux commands:
+
+firefox --no-remote --profile /tmp/ff
+    no-remote for no connection among --profile in previous app or currently triggering app
+rm -rf /tmp/ff
+    remove recursive force folder_path
+    rm for file so recursive for all files
